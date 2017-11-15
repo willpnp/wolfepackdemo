@@ -14,9 +14,9 @@ import Toolbar from 'material-ui/Toolbar';
 import IconButton from 'material-ui/IconButton';
 import TextField from 'material-ui/TextField';
 import json from '../json/batch.json';
+
 var _typeof = typeof Symbol === "function" && typeof Symbol.iterator === "symbol" ? function (obj) { return typeof obj; } : function (obj) { return obj && typeof Symbol === "function" && obj.constructor === Symbol ? "symbol" : typeof obj; };
 var _ = require("lodash");
-
 const columnData = json;
 
 class EnhancedTable extends Component {
@@ -34,30 +34,30 @@ class EnhancedTable extends Component {
   };
 
   onFilterChange = (event, cellDataKey) => {
-	  if (!event.target.value){
-	  	this.setState({
-	  		filteredDataList: this.data,
-	  	});
-	  }
-	  var filterBy = event.target.value.toString().toLowerCase();
-	  var size = this.data.length;
-	  var filteredList = [];
-	  for (var index = 0; index < size; index++){
-		  if (cellDataKey == 'startup'){
-			  var v=this.data[index][cellDataKey].text;
-		  } else {
-			  var v=this.data[index][cellDataKey];		  	
-		  }
-		  if (v.toString().toLowerCase().indexOf(filterBy) !== -1) {
-			  filteredList.push(this.data[index]);
-		  }
-	  }
+    if (!event.target.value){
 	  this.setState({
-		  filteredDataList: filteredList,
+	    filteredDataList: this.data,
 	  });
+	}
+    var filterBy = event.target.value.toString().toLowerCase();
+    var size = this.data.length;
+    var filteredList = [];
+	for (var index = 0; index < size; index++){
+	  if (cellDataKey == 'startup'){
+	    var v=this.data[index][cellDataKey].text;
+      } else {
+		var v=this.data[index][cellDataKey];		  	
+	  }
+      if (v.toString().toLowerCase().indexOf(filterBy) !== -1) {
+	    filteredList.push(this.data[index]);
+	  }
+	}
+	this.setState({
+	  filteredDataList: filteredList,
+    });
   }
 
-    handleRequestSort = (event, property) => {
+  handleRequestSort = (event, property) => {
     const orderBy = property;
     let order = 'desc';
 
@@ -83,14 +83,32 @@ class EnhancedTable extends Component {
 
   tableHeader(label, cellDataKey){
   	return (
-	              <TableHeaderColumn>
-	                    {label}
-						<div>
-						  <br />
-						  <TextField onChange = {(event,cellDataKey) => this.onFilterChange(event, cellDataKey)} />
-						</div>
-	              </TableHeaderColumn>  		
+      <TableHeaderColumn>
+        {label}
+        <div>
+          <br />
+          <TextField onChange = {(event,cellDataKey) => this.onFilterChange(event, cellDataKey)} />
+        </div>
+	  </TableHeaderColumn>  		
   	)
+  }
+  
+  tableRowColumnLink(startup){
+	var tableRowColumnText;
+	if (startup.link){
+		tableRowColumnText =(
+		    <a href={startup.link}>{startup.text}</a>
+	    )		
+	} else {
+		tableRowColumnText =(
+		    startup.text
+	    )				
+	}
+	return (
+        <TableRowColumn>
+		{tableRowColumnText}
+        </TableRowColumn>  	    	
+	)
   }
 
   render() {
@@ -98,54 +116,59 @@ class EnhancedTable extends Component {
 	const data = this.data;
 
     return (
-          <MuiThemeProvider>
-      <Paper>
-		<div>
-		</div>
-        <div>
-          <Table>
-	      <TableHeader displaySelectAll={false} adjustForCheckbox={false}>
-	        <TableRow>
-     <TableHeaderColumn>
-        Batch
-		<div>
-		  <br />
-		  <TextField onChange = {(event) => this.onFilterChange(event, "batch")} />
-		</div>
-        </TableHeaderColumn>
-     <TableHeaderColumn>
-        Startup
-		<div>
-		  <br />
-		  <TextField onChange = {(event) => this.onFilterChange(event, "startup")} />
-		</div>
-        </TableHeaderColumn>
-     <TableHeaderColumn>
-        Description
-		<div>
-		  <br />
-		  <TextField onChange = {(event) => this.onFilterChange(event, "description")} />
-		</div>
-        </TableHeaderColumn>
-	        </TableRow>
-	      </TableHeader>
-            <TableBody displayRowCheckbox={false}>
-              {this.state.filteredDataList.map(n => {
-                return (
-                  <TableRow
-                    tabIndex={-1}
-                  >
-                    <TableRowColumn padding="none">{n.batch}</TableRowColumn>
-                    <TableRowColumn>{n.startup.text}</TableRowColumn>
-                    <TableRowColumn>{n.description}</TableRowColumn>
-                  </TableRow>
-                );
-              })}
-            </TableBody>
-          </Table>
-        </div>
-      </Paper>
-          </MuiThemeProvider>
+      <MuiThemeProvider>
+        <Paper>
+		  <div>
+		  </div>
+          <div>
+            <Table selectable={false}>
+	          <TableHeader displaySelectAll={false} adjustForCheckbox={false}>
+	            <TableRow>
+                  <TableHeaderColumn>
+                    Batch
+                    <div>
+                      <br />
+                      <TextField onChange = {(event) => this.onFilterChange(event, "batch")} />
+                    </div>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn>
+                    Startup
+                    <div>
+                      <br />
+                      <TextField onChange = {(event) => this.onFilterChange(event, "startup")} />
+                    </div>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn>
+                    Description
+                    <div>
+                      <br />
+                      <TextField onChange = {(event) => this.onFilterChange(event, "description")} />
+                    </div>
+                  </TableHeaderColumn>
+	            </TableRow>
+	          </TableHeader>
+              <TableBody displayRowCheckbox={false}>
+                {this.state.filteredDataList.map(n => {
+                  return (
+                    <TableRow
+                      tabIndex={-1}
+                    >
+                      <TableRowColumn padding="none">{n.batch}</TableRowColumn>
+					  {this.tableRowColumnLink(n.startup)}
+                      <TableRowColumn style={{
+                        whiteSpace: "normal",
+                        wordWrap: "break-word"
+                      }}>
+					    {n.description}
+					  </TableRowColumn>
+                    </TableRow>
+                  );
+                })}
+              </TableBody>
+            </Table>
+          </div>
+        </Paper>
+      </MuiThemeProvider>
     );
   }
 }

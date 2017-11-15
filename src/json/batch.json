@@ -1,826 +1,985 @@
 [{
         "batch":0,
-        "startup":{"text":"Aisle411", "link":""},
-        "description":"Aisle411, a location services platform, allows retailers to develop searchable store maps to help consumers better navigate through stores."
+        "startup":{"text":"Aisle411", "link":"http://www.aisle411.com"},
+        "description":"Aisle411, a location services platform, allows retailers to develop searchable store maps to help consumers better navigate through stores.",
+		"program":"Brand & Retail"
 	},
     {
         "batch":0,
         "startup":{"text":"Aisle50, Inc", "link":""},
-        "description":"ACQUIRED. Aisle50 sells offers grocery deals that are bought on the Web and redeemed at traditional grocery stores. The Aisle50 program usually works with retailers' loyalty card systems, although a loyalty card isn't necessary for a retailer to participate."
+        "description":"ACQUIRED. Aisle50 sells offers grocery deals that are bought on the Web and redeemed at traditional grocery stores. The Aisle50 program usually works with retailers' loyalty card systems, although a loyalty card isn't necessary for a retailer to participate.",
+		"program":"Brand & Retail"
     },
     {
         "batch":0,
-        "startup":{"text":"IndoorAtlas", "link":""},
-        "description":"IndoorAtlas is a positioning service based on the earth's magnetic fields that powers location-based apps worldwide."
+        "startup":{"text":"IndoorAtlas", "link":"http://www.indooratlas.com"},
+        "description":"IndoorAtlas is a positioning service based on the earth's magnetic fields that powers location-based apps worldwide.",
+		"program":"Brand & Retail"
     },
     {
         "batch":0,
-        "startup":{"text":"Micello", "link":""},
-        "description":"Micello maintains a collection of indoor maps of important places, including airports, hospitals and shopping malls."
+        "startup":{"text":"Micello", "link":"http://www.micello.com"},
+        "description":"Micello maintains a collection of indoor maps of important places, including airports, hospitals and shopping malls.",
+		"program":"Brand & Retail"
     },
     {
         "batch":0,
         "startup":{"text":"Milo", "link":""},
-        "description":"Milo, a product search space, enables shoppers to research products online and buy locally while tracking real-time availability and price."
+        "description":"ACQUIRED. Milo, a product search space, enables shoppers to research products online and buy locally while tracking real-time availability and price.",
+		"program":"Brand & Retail"
     },
     {
         "batch":0,
-        "startup":{"text":"NatureBox", "link":""},
-        "description":"NatureBox is an online delivery service that home-delivers all-natural snack foods to their consumers on a monthly basis."
+        "startup":{"text":"NatureBox", "link":"http://www.naturebox.com"},
+        "description":"NatureBox is an online delivery service that home-delivers all-natural snack foods to their consumers on a monthly basis.",
+		"program":"Brand & Retail"
     },
     {
         "batch":0,
         "startup":{"text":"Retrevo", "link":""},
-        "description":"ACQUIRED. Retrevo is a consumer product discovery and eCommerce company recognized by Time Magazine as the Best Shopping Website of 2011."
+        "description":"ACQUIRED. Retrevo is a consumer product discovery and eCommerce company recognized by Time Magazine as the Best Shopping Website of 2011.",
+		"program":"Brand & Retail"
     },
     {
         "batch":0,
         "startup":{"text":"Social Calendar", "link":""},
-        "description":"ACQUIRED. SocialCalendar is a Facebook app enabling users to get notified of upcoming events and send virtual wishes and greetings for them."
+        "description":"ACQUIRED. SocialCalendar is a Facebook app enabling users to get notified of upcoming events and send virtual wishes and greetings for them.",
+		"program":"Brand & Retail"
     },
     {
         "batch":0,
         "startup":{"text":"Vudu", "link":""},
-        "description":"ACQUIRED. Vudu is a content delivery and interactive media technology company distributing movies over the internet to television."
+        "description":"ACQUIRED. Vudu is a content delivery and interactive media technology company distributing movies over the internet to television.",
+		"program":"Brand & Retail"
     },
     {
         "batch":0,
         "startup":{"text":"Zong", "link":""},
-        "description":"ACQUIRED. Zong is a mobile payment company allowing user to make micropayments online in gaming and social networking web sites."
+        "description":"ACQUIRED. Zong is a mobile payment company allowing user to make micropayments online in gaming and social networking web sites.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Certilogo", "link":""},
-        "description":"We choose authentic."
+        "startup":{"text":"Certilogo", "link":"http://www.certilogo.com"},
+        "description":"We choose authentic.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Skytree", "link":""},
-        "description":"Skytree is a California-based software company that develops machine learning software for enterprise use."
+        "startup":{"text":"Skytree", "link":"http://www.skytree.net"},
+        "description":"Skytree is a California-based software company that develops machine learning software for enterprise use.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"CartCrunch", "link":""},
-        "description":"CartCrunch is a mobile app that enables its users to save money by finding the best local store for their entire shopping list."
+        "startup":{"text":"CartCrunch", "link":"http://www.cartcrunch.com"},
+        "description":"CartCrunch is a mobile app that enables its users to save money by finding the best local store for their entire shopping list.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
         "startup":{"text":"Retailigence", "link":""},
-        "description":"ACQUIRED. Retailigence is a hyperlocal marketing platform providing customer application usage data to retailers and brands."
+        "description":"ACQUIRED. Retailigence is a hyperlocal marketing platform providing customer application usage data to retailers and brands.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"SoTrender", "link":""},
-        "description":"Actionable tips for social media marketing."
+        "startup":{"text":"SoTrender", "link":"http://www.sotrender.com"},
+        "description":"Actionable tips for social media marketing.",
+		"program":"Brand & Retail"
+
     },
     {
         "batch":1,
         "startup":{"text":"ReadyPulse", "link":""},
-        "description":"ACQUIRED. World's Leading Social Influencer Marketing Platform for Consumer Brands."
+        "description":"ACQUIRED. World's Leading Social Influencer Marketing Platform for Consumer Brands.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Bunchball", "link":""},
-        "description":"Bunchball employs game mechanics that help businesses improve market performance and online engagement."
+        "startup":{"text":"Bunchball", "link":"http://www.bunchball.com"},
+        "description":"Bunchball employs game mechanics that help businesses improve market performance and online engagement.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Grability", "link":""},
-        "description":"Mobile Commerce Platform"
+        "startup":{"text":"Grability", "link":"http://www.grability.com"},
+        "description":"Mobile Commerce Platform",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Mashgin", "link":""},
-        "description":"Mashgin is using computer vision to re-imagine retail checkout by creating a seamless user experience and saving billions for retailers."
+        "startup":{"text":"Mashgin", "link":"http://www.mashgin.com"},
+        "description":"Mashgin is using computer vision to re-imagine retail checkout by creating a seamless user experience and saving billions for retailers.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Productsup", "link":""},
-        "description":"Product data management platform"
+        "startup":{"text":"Productsup", "link":"http://www.productsup.io"},
+        "description":"Product data management platform",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Pindrop", "link":""},
-        "description":"Pindrop Security uses audio analysis to provide anti-fraud and authentication technology solutions."
+        "startup":{"text":"Pindrop", "link":"http://www.pindrop.com"},
+        "description":"Pindrop Security uses audio analysis to provide anti-fraud and authentication technology solutions.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Bay Sensors", "link":""},
-        "description":"Next generation retail analytics."
+        "startup":{"text":"Bay Sensors/Percolata", "link":"http://www.percolata.com"},
+        "description":"RENAMED PERCOLATA. Next generation retail analytics.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"xAd", "link":""},
-        "description":"xAd uses the context of location to create meaningful mobile advertising experiences."
+        "startup":{"text":"xAd/GroundTruth", "link":"http://www.groundtruth.com"},
+        "description":"RENAMED GROUNDTRUTH. xAd uses the context of location to create meaningful mobile advertising experiences.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"SmartAssistant", "link":""},
-        "description":"SMARTASSISTANT is the leading SAAS-technology for businesses to easily offer personalized, interactive expert advice across all touchpoints."
+        "startup":{"text":"SmartAssistant", "link":"http://www.smartassistant.com"},
+        "description":"SMARTASSISTANT is the leading SAAS-technology for businesses to easily offer personalized, interactive expert advice across all touchpoints.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"Quividi", "link":""},
-        "description":"Kown your offline audience."
+        "startup":{"text":"Quividi", "link":"http://www.quividi.com"},
+        "description":"Kown your offline audience.",
+		"program":"Brand & Retail"
     },
     {
         "batch":1,
-        "startup":{"text":"BlueFox", "link":""},
-        "description":"Google analytic in real-time for brick an mortar."
+        "startup":{"text":"BlueFox", "link":"http://www.bluefox.io"},
+        "description":"Google analytic in real-time for brick an mortar.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Prevedere Inc.", "link":""},
-        "description":"Prevedere, Inc is a SaaS Enterprise Software start-up focused on “Big Data” Predictive Analytics for large companies."
+        "startup":{"text":"Prevedere Inc.", "link":"http://www.prevedere.com"},
+        "description":"Prevedere, Inc is a SaaS Enterprise Software start-up focused on “Big Data” Predictive Analytics for large companies.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Fellow Robots", "link":""},
-        "description":"Fellow Robots is at the forefront of bringing innovation to retail."
+        "startup":{"text":"Fellow Robots", "link":"http://www.fellowrobots.com"},
+        "description":"Fellow Robots is at the forefront of bringing innovation to retail.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Linc", "link":""},
-        "description":"Linc hardware and software enables real-time energy management in any building. It provides actionable insights and analytics to help reduce energy consumption and carbon emissions by up to 30%."
+        "startup":{"text":"Linc", "link":"http://www.letslinc.com"},
+        "description":"Linc hardware and software enables real-time energy management in any building. It provides actionable insights and analytics to help reduce energy consumption and carbon emissions by up to 30%.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Linkable Networks", "link":""},
-        "description":"Linkable Networks is the only card-linked offer company with the ability to provide coupons and offers at the individual product or SKU-level."
+        "startup":{"text":"Linkable Networks", "link":"http://www.linkablenetworks.com"},
+        "description":"Linkable Networks is the only card-linked offer company with the ability to provide coupons and offers at the individual product or SKU-level.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"KptnCook Corp.", "link":""},
-        "description":"KptnCook - is a mobile app, combining curated recipes with a location-based grocery shopping experience at local stores."
+        "startup":{"text":"KptnCook Corp.", "link":"http://www.kptncook.com"},
+        "description":"KptnCook - is a mobile app, combining curated recipes with a location-based grocery shopping experience at local stores.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Sparkle.cs", "link":""},
-        "description":"Sparkle is creating the App Store for POS."
+        "startup":{"text":"Sparkle.cs", "link":"http://www.sparkle-cs.com"},
+        "description":"Sparkle is creating the App Store for POS.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Grabit", "link":""},
-        "description":"Grabit, Inc. provides electroadhesion-based gripping products for robotics and material handling applications. It offers grippers, flexible."
+        "startup":{"text":"Grabit", "link":"http://www.grabitinc.com"},
+        "description":"Grabit, Inc. provides electroadhesion-based gripping products for robotics and material handling applications. It offers grippers, flexible.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Itembase", "link":""},
-        "description":"The Online Inventory for Everyone and Everything"
+        "startup":{"text":"Itembase", "link":"http://www.itembasehq.com"},
+        "description":"The Online Inventory for Everyone and Everything",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Honey", "link":""},
-        "description":"Internal Communications Made Easy."
+        "startup":{"text":"Honey", "link":"http://www.joinhoney.com"},
+        "description":"Internal Communications Made Easy.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Capillary", "link":""},
-        "description":"Capillary Technologies develops cloud-based customer analytics marketing platform for retailers and consumer businesses."
+        "startup":{"text":"Capillary", "link":"http://www.capillarytech.com"},
+        "description":"Capillary Technologies develops cloud-based customer analytics marketing platform for retailers and consumer businesses.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Pijon Inc.", "link":""},
-        "description":"Pijon is a NYC-based technology company that specializes in sending college students monthly care packages filled with awesome products."
+        "startup":{"text":"Pijon Inc.", "link":"http://www.pijonbox.com"},
+        "description":"Pijon is a NYC-based technology company that specializes in sending college students monthly care packages filled with awesome products.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Augmented Pixels Co Ltd.", "link":""},
-        "description":"Computer vision, SLAM, 3d mapping for mobile devices, robots and drones."
+        "startup":{"text":"Augmented Pixels Co Ltd.", "link":"http://www.augmentedpixels.com"},
+        "description":"Computer vision, SLAM, 3d mapping for mobile devices, robots and drones.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"QuantiFind", "link":""},
-        "description":"Analytics platform that forecasts consumer actions in the real world. Metrics that tie to revenue. Used by major marketers."
+        "startup":{"text":"QuantiFind", "link":"http://www.quantifind.com"},
+        "description":"Analytics platform that forecasts consumer actions in the real world. Metrics that tie to revenue. Used by major marketers.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"Placed, Inc.", "link":""},
-        "description":"Placed is a location-driven insights and mobile ad intelligence platform providing reports on consumers’ offline behaviors."
+        "startup":{"text":"Placed, Inc.", "link":"http://www.placed.com"},
+        "description":"Placed is a location-driven insights and mobile ad intelligence platform providing reports on consumers’ offline behaviors.",
+		"program":"Brand & Retail"
     },
     {
         "batch":2,
-        "startup":{"text":"ProductPlay", "link":""},
-        "description":""
-    },
-    {
-        "batch":2,
-        "startup":{"text":"ProductPlay", "link":""},
-        "description":""
+        "startup":{"text":"ProductPlay", "link":"http://www.productplay.com"},
+        "description":"We help Brands and Retailers find influencer videos of their products that already exist on YouTube.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"42 Technologies", "link":""},
-        "description":"The 42 dash is a predictive analytics platform that personalizes in-store retail."
+        "startup":{"text":"42 Technologies", "link":"http://www.42technologies.com"},
+        "description":"The 42 dash is a predictive analytics platform that personalizes in-store retail.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
         "startup":{"text":"Airseed", "link":""},
-        "description":"ACQUIRED. Airseed is a developer platform that powers single sign-on authentication with consumer data focused tools, analytics, and intelligence."
+        "description":"ACQUIRED. Airseed is a developer platform that powers single sign-on authentication with consumer data focused tools, analytics, and intelligence.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Cinova", "link":""},
-        "description":"Cinova’s CRUNCH solution dramatically reduces image and video files without compromising quality."
+        "startup":{"text":"Cinova", "link":"http://www.cinova.com"},
+        "description":"Cinova’s CRUNCH solution dramatically reduces image and video files without compromising quality.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Debitforward, Piin", "link":""},
-        "description":"By employing iBeacon technology, we are able to streamline the payment process to one point of action."
+        "startup":{"text":"Debitforward, Piin", "link":"http://www.debitforward.com"},
+        "description":"By employing iBeacon technology, we are able to streamline the payment process to one point of action.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Deliv.co", "link":""},
-        "description":"Deliv extends the reach of omni channel retailers by offering customers same day delivery through the retailer’s website, mobile app, or from their brick and mortar store."
+        "startup":{"text":"Deliv.co", "link":"http://www.deliv.co"},
+        "description":"Deliv extends the reach of omni channel retailers by offering customers same day delivery through the retailer’s website, mobile app, or from their brick and mortar store.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Indoor Atlas", "link":""},
-        "description":"IndoorAtlas is a positioning service based on the earth's magnetic fields that powers location-based apps worldwide."
+        "startup":{"text":"Indoor Atlas", "link":"http://www.indooratlas.com"},
+        "description":"IndoorAtlas is a positioning service based on the earth's magnetic fields that powers location-based apps worldwide.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"InsideVault/QuanticMind", "link":""},
-        "description":"InsideVault delivers a next-generation bid management platform that transforms SEM profitability."
+        "startup":{"text":"InsideVault/QuanticMind", "link":"http://www.quanticmind.com"},
+        "description":"RENAMED QUANTICMIND. InsideVault delivers a next-generation bid management platform that transforms SEM profitability.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"LimeSpot", "link":""},
-        "description":"The LimeSpot platform helps online retailers increase sales by creating a personalized shopping experience for their customers."
+        "startup":{"text":"LimeSpot", "link":"http://www.limespot.com"},
+        "description":"The LimeSpot platform helps online retailers increase sales by creating a personalized shopping experience for their customers.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Matternet", "link":""},
-        "description":"The most easy to use, desirable and safest personal flying vehicle you have ever experienced. Optimized for transportation."
+        "startup":{"text":"Matternet", "link":"http://www.mttr.net"},
+        "description":"The most easy to use, desirable and safest personal flying vehicle you have ever experienced. Optimized for transportation.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Monetate", "link":""},
-        "description":"The Monetate Agility Suite is a cloud-based browser technology allowing marketers to bypass IT restraints and react in real time to customer demands."
+        "startup":{"text":"Monetate", "link":"http://www.monetate.com"},
+        "description":"The Monetate Agility Suite is a cloud-based browser technology allowing marketers to bypass IT restraints and react in real time to customer demands.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
         "startup":{"text":"P¡kato, Inc.", "link":""},
-        "description":"ACQUIRED. Pikato allows retailers to provide targeted, time-sensitive promotional offers, coupons and product information within their brand and mobile assets."
+        "description":"ACQUIRED. Pikato allows retailers to provide targeted, time-sensitive promotional offers, coupons and product information within their brand and mobile assets.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
         "startup":{"text":"Roximity", "link":""},
-        "description":"ACQUIRED. ROXIMITY is a location based analytics and ad platform, ideal for brands and retailers."
+        "description":"ACQUIRED. ROXIMITY is a location based analytics and ad platform, ideal for brands and retailers.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Seeloz", "link":""},
-        "description":"Seeloz proprietary data science unlocks the power of vast amounts of data to develop comprehensive 360° insights about each shopper."
+        "startup":{"text":"Seeloz", "link":"http://www.seeloz.com"},
+        "description":"Seeloz proprietary data science unlocks the power of vast amounts of data to develop comprehensive 360° insights about each shopper.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Ship2MyID", "link":""},
-        "description":"Ship2MyID is an e-commerce enabler that allows users to buy items online and send them to themselves or others without needing the receiver's physical address."
+        "startup":{"text":"Ship2MyID", "link":"http://www.ship2myid.com"},
+        "description":"Ship2MyID is an e-commerce enabler that allows users to buy items online and send them to themselves or others without needing the receiver's physical address.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
         "startup":{"text":"ShopSeen", "link":""},
-        "description":"Ship2MyID is an e-commerce enabler that allows users to buy items online and send them to themselves or others without needing the receiver's physical address."
+        "description":"NOT IN BUSINESS. Shopseen gives sellers a unified platform to manage their products, everywhere they want to sell, including Square and Instagram! Connect ecommerce, POS, social channels, email marketing, and shipping in one place. Shopseen simplifies the addition and management of more stores and marketing channels."
     },
     {
         "batch":3,
-        "startup":{"text":"Visual.ly", "link":""},
-        "description":"Visual.ly makes it possible to present infomation in a bite-sized visual way through a platform that democratizes the creation and sharing of visualizations."
+        "startup":{"text":"Visual.ly", "link":"http://www.visual.ly"},
+        "description":"ACQUIRED. Visual.ly makes it possible to present infomation in a bite-sized visual way through a platform that democratizes the creation and sharing of visualizations.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
-        "startup":{"text":"Wiser", "link":""},
-        "description":"Wiser is a dynamic pricing optimization engine that monitors, analyzes and re-prices retail products in real-time."
+        "startup":{"text":"Wiser", "link":"http://www.wiser.com"},
+        "description":"Wiser is a dynamic pricing optimization engine that monitors, analyzes and re-prices retail products in real-time.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"Doorman", "link":""},
-        "description":"Doorman has reimagined package delivery for e-commerce by perfecting the most important moment of shopping: when customers actually get their purchases."
+        "startup":{"text":"Doorman", "link":"http://www.doorman.co"},
+        "description":"Doorman has reimagined package delivery for e-commerce by perfecting the most important moment of shopping: when customers actually get their purchases.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"SkuIQ", "link":""},
-        "description":"Real Time Inventory for Retailers"
+        "startup":{"text":"SkuIQ", "link":"http://www.skuiq.com"},
+        "description":"Real Time Inventory for Retailers",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"MadeSolid", "link":""},
-        "description":"Advanced Functional Materials for 3D Printing and Beyond"
+        "startup":{"text":"MadeSolid", "link":"http://www.madesolid.com"},
+        "description":"Advanced Functional Materials for 3D Printing and Beyond",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"Vidora", "link":""},
-        "description":"Moving consumer experiences to the future with artificial intelligence"
+        "startup":{"text":"Vidora", "link":"http://www.vidora.com"},
+        "description":"Moving consumer experiences to the future with artificial intelligence",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
         "startup":{"text":"Blynk", "link":""},
-        "description":"ACQUIRED. Your free personal stylist in your pocket."
+        "description":"ACQUIRED. Your free personal stylist in your pocket.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"Reactful", "link":""},
-        "description":"Websites Listen & React"
+        "startup":{"text":"Reactful", "link":"http://www.reactful.com"},
+        "description":"Websites Listen & React",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
         "startup":{"text":"Tote", "link":""},
-        "description":"ACQUIRED. Your shopping mall concierge."
+        "description":"ACQUIRED. Your shopping mall concierge.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
         "startup":{"text":"Booshaka", "link":""},
-        "description":"ACQUIRED. Booshaka helps marketers leverage customer data to increase sales and engagement."
+        "description":"ACQUIRED. Booshaka helps marketers leverage customer data to increase sales and engagement.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"Clarivoy", "link":""},
-        "description":"Clarivoy Inc., which uses statistical algorithms to determine how effectively a TV ad campaign drives website traffic."
+        "startup":{"text":"Clarivoy", "link":"http://www.clarivoy.com"},
+        "description":"Clarivoy Inc., which uses statistical algorithms to determine how effectively a TV ad campaign drives website traffic.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"CamFind", "link":""},
-        "description":"CamFind is the very first successful visual search engine app that can photograph, identify, and provide information on any object, at any..."
+        "startup":{"text":"CamFind", "link":"http://www.camfindapp.com"},
+        "description":"CamFind is the very first successful visual search engine app that can photograph, identify, and provide information on any object, at any...",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
         "startup":{"text":"Piqora", "link":""},
-		"description":"ACQUIRED. Piqora helps commerce & marketing teams discover, curate & integrate shoppable user generated imagery on digital marketing channels."
+		"description":"ACQUIRED. Piqora helps commerce & marketing teams discover, curate & integrate shoppable user generated imagery on digital marketing channels.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"Apparently Different", "link":""},
-		"description":"We bring the best of online shopping to fashion stores."
+        "startup":{"text":"Apparently Different", "link":"http://www.apparently-different.com"},
+		"description":"We bring the best of online shopping to fashion stores.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"Everfave", "link":""},
-		"description":"Everfave makes your customers your evangelists and help you increase word-of-mouth and grow your customers."
+        "startup":{"text":"Everfave", "link":"http://www.everfave.com"},
+		"description":"Everfave makes your customers your evangelists and help you increase word-of-mouth and grow your customers.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
         "startup":{"text":"MentAd", "link":""},
-		"description":"MentAd helps retailers predict who their next customers are going to be and finds opportunities to acquire them effectively through targeted advertising campaigns."
+		"description":"ACQUIRED. MentAd helps retailers predict who their next customers are going to be and finds opportunities to acquire them effectively through targeted advertising campaigns.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"eBrandValue", "link":""},
-		"description":"Real time Nielsen ratings for brands. We determine whether consumers purchase brands based on social. Our metrics are correlated with sales."
+        "startup":{"text":"eBrandValue", "link":"http://www.ebrandvalue.com"},
+		"description":"Real time Nielsen ratings for brands. We determine whether consumers purchase brands based on social. Our metrics are correlated with sales.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"BoomTrain", "link":""},
-		"description":"A personalized notification platform that connects every customer to content they’ll love."
+        "startup":{"text":"BoomTrain", "link":"http://www.boomtrain.com"},
+		"description":"A personalized notification platform that connects every customer to content they’ll love.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"FiveRun, Inc.", "link":""},
-		"description":"Fiverun is a cloud-based commerce platform that offers brands and retailers greater digital capabilities in-store."
+        "startup":{"text":"FiveRun, Inc.", "link":"http://www.kibocommerce.com"},
+		"description":"ACQUIRED. Fiverun is a cloud-based commerce platform that offers brands and retailers greater digital capabilities in-store.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"PromoBoxx", "link":""},
-		"description":"Promoboxx is a brand-to-retail marketing platform allowing brands to launch co-branded online campaigns with retailers."
+        "startup":{"text":"PromoBoxx", "link":"http://www.promoboxx.com"},
+		"description":"Promoboxx is a brand-to-retail marketing platform allowing brands to launch co-branded online campaigns with retailers.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"InfiniteAnalytics", "link":""},
-		"description":"Infinite Analytics is the most advanced predictive marketing and analytics company."
+        "startup":{"text":"InfiniteAnalytics", "link":"http://www.infiniteanalytics.com"},
+		"description":"Infinite Analytics is the most advanced predictive marketing and analytics company.",
+		"program":"Brand & Retail"
     },
     {
         "batch":4,
-        "startup":{"text":"Kiip", "link":""},
-		"description":"Kiip is a rewards network and mobile application that offers rewards from brands and companies for virtual achievements #OwnTheMoment."
+        "startup":{"text":"Kiip", "link":"http://www.kiip.me"},
+		"description":"Kiip is a rewards network and mobile application that offers rewards from brands and companies for virtual achievements #OwnTheMoment.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"BirdEye", "link":""},
-		"description":"B2B next-generation business reputation and customer experience platform."
+        "startup":{"text":"BirdEye", "link":"http://www.birdeye.com"},
+		"description":"B2B next-generation business reputation and customer experience platform.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Bringsy", "link":""},
-		"description":"Same day delivery for any business."
+        "startup":{"text":"Bringsy", "link":"http://www.bringsy.com"},
+		"description":"Same day delivery for any business.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Clear Labs", "link":""},
-		"description":"The standard for molecular food quality and analytics in the global food industry."
+        "startup":{"text":"Clear Labs", "link":"http://www.clearlabs.com"},
+		"description":"The standard for molecular food quality and analytics in the global food industry.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Datasembly", "link":""},
-		"description":"Empowering CPGs and retailers to make data-driven decisions with real-time, hyperlocal product prices from around the world."
+        "startup":{"text":"Datasembly", "link":"http://www.datasembly.com"},
+		"description":"Empowering CPGs and retailers to make data-driven decisions with real-time, hyperlocal product prices from around the world.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
         "startup":{"text":"EngageClick", "link":""},
-		"description":"ACQUIRED. A predictive marketing platform delivering personalized marketing messages across channels."
+		"description":"ACQUIRED. A predictive marketing platform delivering personalized marketing messages across channels.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Everfave", "link":""},
-		"description":"Everfave is a mobile and social based customer growth platform for physical businesses and brands. We enable consumers to discover and share their 'favorite' products, services, and brands with friends, and earn exciting rewards from their favorite places."
+        "startup":{"text":"Everfave", "link":"http://www.everfave.com"},
+		"description":"Everfave is a mobile and social based customer growth platform for physical businesses and brands. We enable consumers to discover and share their 'favorite' products, services, and brands with friends, and earn exciting rewards from their favorite places.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Foldimate", "link":""},
-		"description":"A patented '3D clothes folding technology' that is unique to the laundry folding industry."
+        "startup":{"text":"Foldimate", "link":"http://www.foldimate.com"},
+		"description":"A patented '3D clothes folding technology' that is unique to the laundry folding industry.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"GameCommerce", "link":""},
-		"description":"Providing gamified mobile ads called PlayAdsTM that are fun, interactive and rewarding, and have proven to deliver over 10X higher user engagement for consumer brands."
+        "startup":{"text":"GameCommerce", "link":"http://www.gamecommerce.com"},
+		"description":"Providing gamified mobile ads called PlayAdsTM that are fun, interactive and rewarding, and have proven to deliver over 10X higher user engagement for consumer brands.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Helpshift", "link":""},
-		"description":"A mobile support platform that helps you engage, support, and expand your mobile customer base."
+        "startup":{"text":"Helpshift", "link":"http://www.helpshift.com"},
+		"description":"A mobile support platform that helps you engage, support, and expand your mobile customer base.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Hiku", "link":""},
-		"description":"Using your voice, Hiku creates a shared shopping list on your phone so you always know what you need."
+        "startup":{"text":"Hiku", "link":"http://www.hiku.us"},
+		"description":"Using your voice, Hiku creates a shared shopping list on your phone so you always know what you need.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Inmoji", "link":""},
-		"description":"Inmoji harnesses the power of mobile messaging to connect people with the brands they love."
+        "startup":{"text":"Inmoji", "link":"http://www.inmoji.com"},
+		"description":"Inmoji harnesses the power of mobile messaging to connect people with the brands they love.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"MobileRQ", "link":""},
-		"description":"Using personalization to enable brands to add context to mobile app strategies creating powerful customer experiences that drive revenue and loyalty."
+        "startup":{"text":"MobileRQ", "link":"http://www.mobilrq.com"},
+		"description":"ACQUIRED. Using personalization to enable brands to add context to mobile app strategies creating powerful customer experiences that drive revenue and loyalty.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"OmniLync", "link":""},
-		"description":"Providing friction free access to full-basket POS data, allowing the broader retail market to adopt new digital marketing solutions."
+        "startup":{"text":"OmniLync", "link":"http://www.omnilync.com"},
+		"description":"Providing friction free access to full-basket POS data, allowing the broader retail market to adopt new digital marketing solutions.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Omniscience", "link":""},
-		"description":"Providing actionable, prioritized intelligence on high-value targets (people, brands, topics) for sales, brand perception, risk management, and more."
+        "startup":{"text":"Omniscience", "link":"http://www.omni.sc"},
+		"description":"Providing actionable, prioritized intelligence on high-value targets (people, brands, topics) for sales, brand perception, risk management, and more.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Sales Layer", "link":""},
-		"description":"A new generation Product Information Manager (PIM) helping companies curate product content and synchronize across retailers, paper catalogs, web & mobile platforms."
+        "startup":{"text":"Sales Layer", "link":"http://www.saleslayer.com"},
+		"description":"A new generation Product Information Manager (PIM) helping companies curate product content and synchronize across retailers, paper catalogs, web & mobile platforms.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"SightCorp", "link":""},
-		"description":"SightCorp offers cutting edge face analysis, mood measurement and audience analytics solutions, reporting targeted individual and crowd analysis."
+        "startup":{"text":"SightCorp", "link":"http://www.sightcorp.com"},
+		"description":"SightCorp offers cutting edge face analysis, mood measurement and audience analytics solutions, reporting targeted individual and crowd analysis.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Sprinklr", "link":""},
-		"description":"Sprinklr is the most complete enterprise social media management technology in the world."
+        "startup":{"text":"Sprinklr", "link":"http://www.sprinklr.com"},
+		"description":"Sprinklr is the most complete enterprise social media management technology in the world.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
         "startup":{"text":"Squareggs", "link":""},
-		"description":"The online marketplace for baked goods with Bread and Breakfast subscription plans. Squareggs connects consumers to their local retail and home bakers."
+		"description":"NOT IN BUSINESS. The online marketplace for baked goods with Bread and Breakfast subscription plans. Squareggs connects consumers to their local retail and home bakers.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
         "startup":{"text":"Swapbox", "link":""},
-		"description":"Swapbox provides an automated post office allowing users to asynchronously send and receive packages on their own schedule."
+		"description":"Swapbox provides an automated post office allowing users to asynchronously send and receive packages on their own schedule.",
+		"program":"Brand & Retail"
     },
     {
         "batch":5,
-        "startup":{"text":"Walc", "link":""},
-		"description":"Walc's app gives directions based on landmarks and brands instead of north/south, and creates custom directions."
+        "startup":{"text":"Walc", "link":"http://www.walc.me"},
+		"description":"Walc's app gives directions based on landmarks and brands instead of north/south, and creates custom directions.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"6d bytes", "link":""},
-		"description":"Reinventing fast food."
+        "startup":{"text":"6d bytes", "link":"http://www.6dbytes.com"},
+		"description":"Reinventing fast food.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Benchmark Intelligence", "link":""},
-		"description":"Benchmark Intelligence is SaaS that helps retail chains measure and improve the customer experience of all their locations."
+        "startup":{"text":"Benchmark Intelligence", "link":"http://www.usebenchmark.com"},
+		"description":"Benchmark Intelligence is SaaS that helps retail chains measure and improve the customer experience of all their locations.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Cheerfy", "link":""},
-		"description":"Real-time Personalized Customer Experiences in the Physical World, a-la Amazon."
+        "startup":{"text":"Cheerfy", "link":"http://www.cheerfy.com"},
+		"description":"Real-time Personalized Customer Experiences in the Physical World, a-la Amazon.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Chute", "link":""},
-		"description":"Chute is the first end-to-end user-generated content marketing solution that streamlines UGC search and discovery, curation, rights management, and publishing."
+        "startup":{"text":"Chute", "link":"http://www.getchute.com"},
+		"description":"Chute is the first end-to-end user-generated content marketing solution that streamlines UGC search and discovery, curation, rights management, and publishing.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"EMOTIV", "link":""},
-		"description":"EMOTIV is a bioinformatics company advancing understanding of the human brain using electroencephalography (EEG). Our mission is to empower individuals to understand their own brain and accelerate brain research globally."
+        "startup":{"text":"EMOTIV", "link":"http://www.emotiv.com"},
+		"description":"EMOTIV is a bioinformatics company advancing understanding of the human brain using electroencephalography (EEG). Our mission is to empower individuals to understand their own brain and accelerate brain research globally.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"GoFind.ai", "link":""},
-		"description":"AI and VR Shopping search engine."
+        "startup":{"text":"GoFind.ai", "link":"http://www.gofind.ai"},
+		"description":"AI and VR Shopping search engine.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Gravy", "link":""},
-		"description":"Gravy is the only location intelligence platform identifying consumer interests based on verified local event attendances."
+        "startup":{"text":"Gravy", "link":"http://www.gravyanalytics.com"},
+		"description":"Gravy is the only location intelligence platform identifying consumer interests based on verified local event attendances.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Kwik", "link":""},
-		"description":"kwik allows people to order their favorite product with a push of a button."
+        "startup":{"text":"Kwik", "link":"http://www.kwik.me"},
+		"description":"kwik allows people to order their favorite product with a push of a button.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"MemoMi", "link":""},
-		"description":"The creators of the Memory MirrorTM the world first Digital Mirror platform providing countless user experiences and a new generation of in-store data analytics."
+        "startup":{"text":"MemoMi", "link":"http://www.memorymirror.com"},
+		"description":"The creators of the Memory MirrorTM the world first Digital Mirror platform providing countless user experiences and a new generation of in-store data analytics.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Naytev", "link":""},
-		"description":"Naytev is an A/B testing platform for Facebook."
+        "startup":{"text":"Naytev", "link":"http://www.naytev.com"},
+		"description":"Naytev is an A/B testing platform for Facebook.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Oak Labs", "link":""},
-		"description":"Oak believes the future of retail will be software-driven. Starting with an interactive fitting room mirror that enables customer requests, lighting changes, and checkout, Oak is building the ultimate intelligent store platform."
+        "startup":{"text":"Oak Labs", "link":"http://www.oaklabs.is"},
+		"description":"Oak believes the future of retail will be software-driven. Starting with an interactive fitting room mirror that enables customer requests, lighting changes, and checkout, Oak is building the ultimate intelligent store platform.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"PrivMe", "link":""},
-		"description":"Using A.I. and predictive analytics on spending and social data to form a real time consumer behavioral snapshot, PrivMe creates the world's most easy to use and powerful customer acquisition and retention platform."
+        "startup":{"text":"PrivMe", "link":"http://biz.privme.com"},
+		"description":"Using A.I. and predictive analytics on spending and social data to form a real time consumer behavioral snapshot, PrivMe creates the world's most easy to use and powerful customer acquisition and retention platform.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"QueueHop", "link":""},
-		"description":"QueueHop is an apparel store mobile self-checkout solution with an RFID-enabled anti-theft tag that unlocks after a payment is made via an app."
+        "startup":{"text":"QueueHop", "link":"http://www.home.queuehop.com"},
+		"description":"QueueHop is an apparel store mobile self-checkout solution with an RFID-enabled anti-theft tag that unlocks after a payment is made via an app.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Smartzer", "link":""},
-		"description":"Smartzer's interactive video player turns videos clickable and gives brands access to detailed video engagement analytics."
+        "startup":{"text":"Smartzer", "link":"http://www.smartzer.com"},
+		"description":"Smartzer's interactive video player turns videos clickable and gives brands access to detailed video engagement analytics.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Sparo", "link":""},
-		"description":"Sparo is a patented application that allows merchants to leverage their corporate social responsibility campaigns into higher online sales and increased brand loyalty by marrying e-commerce and charity at the check-out page."
+        "startup":{"text":"Sparo", "link":"http://www.sparo.com"},
+		"description":"Sparo is a patented application that allows merchants to leverage their corporate social responsibility campaigns into higher online sales and increased brand loyalty by marrying e-commerce and charity at the check-out page.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"SwiftIQ", "link":""},
-		"description":"SwiftIQ offers an advanced analytics, supplier collaboration and predictive application platform for large offline retailers to collect, analyze and share insights from billions of basket-level transaction and customer records."
+        "startup":{"text":"SwiftIQ", "link":"http://www.swiftiq.com"},
+		"description":"SwiftIQ offers an advanced analytics, supplier collaboration and predictive application platform for large offline retailers to collect, analyze and share insights from billions of basket-level transaction and customer records.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Talkable", "link":""},
-		"description":"Refer A Friend Platform for e-commerce companies."
+        "startup":{"text":"Talkable", "link":"http://www.talkable.com"},
+		"description":"Refer A Friend Platform for e-commerce companies.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Tilofy", "link":""},
-		"description":"Tilofy's SaaS trend forecasting platform identifies trends in their infancy, long before they reach the mainstream."
+        "startup":{"text":"Tilofy", "link":"http://www.tilofy.com"},
+		"description":"Tilofy's SaaS trend forecasting platform identifies trends in their infancy, long before they reach the mainstream.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Umbo CV", "link":""},
-		"description":"Umbo CV is an artificial intelligence startup developing event recognition systems for the professional video security space."
+        "startup":{"text":"Umbo CV", "link":"http://www.umbocv.ai"},
+		"description":"Umbo CV is an artificial intelligence startup developing event recognition systems for the professional video security space.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Vintra", "link":""},
-		"description":"Vintra makes software that helps enterprises optimize marketing spend, generate new revenue, and drive operational performance by mining visual content for hidden, key insights and then recommending corresponding actions."
+        "startup":{"text":"Vintra", "link":"http://www.vintra.com"},
+		"description":"Vintra makes software that helps enterprises optimize marketing spend, generate new revenue, and drive operational performance by mining visual content for hidden, key insights and then recommending corresponding actions.",
+		"program":"Brand & Retail"
     },
     {
         "batch":6,
-        "startup":{"text":"Von Bismark", "link":""},
-		"description":"Von Bismark runs The Mall on Xbox One – a brand marketplace for tens of millions of 18-45 year old males on Xbox One."
+        "startup":{"text":"Von Bismark", "link":"http://www.vonbismark.com"},
+		"description":"Von Bismark runs The Mall on Xbox One – a brand marketplace for tens of millions of 18-45 year old males on Xbox One.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Alcméon SAS", "link":""},
-		"description":"Human + AI cloud based innovative tool to help leading brands dialog with their customers on social networks and messaging apps."
+        "startup":{"text":"Alcméon SAS", "link":"http://www.alcmeon.com"},
+		"description":"Human + AI cloud based innovative tool to help leading brands dialog with their customers on social networks and messaging apps.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Antenna (ReadrBoard, Inc.)", "link":""},
-		"description":"Antenna is a mobile-first engagement platform for retailers and publishers that uses consumer feedback to increase sales, monetize content, and build loyalty."
+        "startup":{"text":"Antenna (ReadrBoard, Inc.)", "link":"http://www.antenna.is"},
+		"description":"Antenna is a mobile-first engagement platform for retailers and publishers that uses consumer feedback to increase sales, monetize content, and build loyalty.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Bold Metrics, Inc.", "link":""},
-		"description":"Unlocking human body data to change the way products are bought, sold, and designed."
+        "startup":{"text":"Bold Metrics, Inc.", "link":"http://www.boldmetrics.com"},
+		"description":"Unlocking human body data to change the way products are bought, sold, and designed.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Botmetrics", "link":""},
-		"description":"Analyze and improve customer satisfaction for chat and voice interfaces."
+        "startup":{"text":"Botmetrics", "link":"http://www.getbotmetrics.com"},
+		"description":"Analyze and improve customer satisfaction for chat and voice interfaces.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Breinify, Inc.", "link":""},
-		"description":"Breinify is the leading time-driven AI engine predicting an individual's highly dynamic interests."
+        "startup":{"text":"Breinify, Inc.", "link":"http://www.breinify.com"},
+		"description":"Breinify is the leading time-driven AI engine predicting an individual's highly dynamic interests.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Cappasity Inc.", "link":""},
-		"description":"Cappasity is a cloud-based platform that lets online stores easily create and deliver 3D shopping experience."
+        "startup":{"text":"Cappasity Inc.", "link":"http://www.cappasity.com"},
+		"description":"Cappasity is a cloud-based platform that lets online stores easily create and deliver 3D shopping experience.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Crowdz - (Agora Intelligence, Inc.)", "link":""},
-		"description":"The (R)evolution of the Supply Chain: From Months to Milliseconds."
+        "startup":{"text":"Crowdz - (Agora Intelligence, Inc.)", "link":"http://crowdz.io"},
+		"description":"The (R)evolution of the Supply Chain: From Months to Milliseconds.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Commerce.AI", "link":""},
-		"description":"Artificial Intelligence To Power Next Generation Commerce."
+        "startup":{"text":"Commerce.AI", "link":"http://www.commerce.ai"},
+		"description":"Artificial Intelligence To Power Next Generation Commerce.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"DOTTY", "link":""},
-		"description":"Dotty is a suite of products with a focus on Augmented Reality and IoT."
+        "startup":{"text":"DOTTY", "link":"http://www.dottyar.com"},
+		"description":"Dotty is a suite of products with a focus on Augmented Reality and IoT.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Inbenta Technologies, Inc.", "link":""},
-		"description":"Finally, AI search that delivers real results."
+        "startup":{"text":"Inbenta Technologies, Inc.", "link":"http://www.inbenta.com"},
+		"description":"Finally, AI search that delivers real results.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"The Influential Network Inc.", "link":""},
-		"description":"Influential is the only A.I. influencer platform with Watson on Instagram, Facebook, and Twitter to deliver demographically, psychographically, and contextually targeted campaigns for brands and agencies."
+        "startup":{"text":"The Influential Network Inc.", "link":"http://www.influential.co"},
+		"description":"Influential is the only A.I. influencer platform with Watson on Instagram, Facebook, and Twitter to deliver demographically, psychographically, and contextually targeted campaigns for brands and agencies.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Joinedapp", "link":""},
-		"description":"We connect some of the world’s largest brands & merchants with their customers on the largest untapped sales & market channels in the world today, messaging apps."
+        "startup":{"text":"Joinedapp", "link":"http://www.joinedapp.com"},
+		"description":"We connect some of the world’s largest brands & merchants with their customers on the largest untapped sales & market channels in the world today, messaging apps.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Kokko Inc", "link":""},
-		"description":"Kokko creates digital experiences that gives consumers the confidence to purchase when color is critical."
+        "startup":{"text":"Kokko Inc", "link":"http://www.kokkocolor.com"},
+		"description":"Kokko creates digital experiences that gives consumers the confidence to purchase when color is critical.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Mobee (Hooky, Inc.)", "link":""},
-		"description":"Crowdsourced In-Store Intelligence for Brands & Retailers"
+        "startup":{"text":"Mobee (Hooky, Inc.)", "link":"http://www.getmobee.com"},
+		"description":"MERGED. Crowdsourced In-Store Intelligence for Brands & Retailers",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Outernets, Inc.", "link":""},
-		"description":"Transforming glass into smart, interactive, digital displays."
+        "startup":{"text":"Outernets, Inc.", "link":"http://www.outernets.co"},
+		"description":"Transforming glass into smart, interactive, digital displays.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"PlusMargin", "link":""},
-		"description":"PlusMargin combines Behavioural Psychology & AI to psychologically profile visitors and subsequently persuade them to buy."
+        "startup":{"text":"PlusMargin", "link":"http://www.plusmargin.com"},
+		"description":"PlusMargin combines Behavioural Psychology & AI to psychologically profile visitors and subsequently persuade them to buy.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Primo1D", "link":""},
-		"description":"RFID in a yarn to propel products in the world of connected objects."
+        "startup":{"text":"Primo1D", "link":"http://www.primo1d.com"},
+		"description":"RFID in a yarn to propel products in the world of connected objects.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Satisfi Labs", "link":""},
-		"description":"The virtual assistant for the world inside."
+        "startup":{"text":"Satisfi Labs", "link":"http://www.satis.fi"},
+		"description":"The virtual assistant for the world inside.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"SHOPRUNBACK/ Shipleader Returns", "link":""},
-		"description":"Shoprunback turns online returns into customer satisfaction."
+        "startup":{"text":"SHOPRUNBACK/ Shipleader Returns", "link":"http://www.shoprunback.com"},
+		"description":"Shoprunback turns online returns into customer satisfaction.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Stylitics", "link":""},
-		"description":"We power interactive outfit recommendations to help retailers engage customers across all channels, with no manual work required."
+        "startup":{"text":"Stylitics", "link":"http://www.stylitics.com"},
+		"description":"We power interactive outfit recommendations to help retailers engage customers across all channels, with no manual work required.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"SupplyAI, DataCulture Inc", "link":""},
-		"description":"SupplyAI helps retailers turn returns into profit opportunity."
+        "startup":{"text":"SupplyAI, DataCulture Inc", "link":"http://www.supply.ai"},
+		"description":"SupplyAI helps retailers turn returns into profit opportunity.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"ThirdEye Labs", "link":""},
-		"description":"Thirdeye provides retailers computer vision solutions to run brick & mortar stores."
+        "startup":{"text":"ThirdEye Labs", "link":"http://www.thirdeyelabs.com"},
+		"description":"Thirdeye provides retailers computer vision solutions to run brick & mortar stores.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"Wirewax US Inc.", "link":""},
-		"description":"Interactive Video."
+        "startup":{"text":"Wirewax US Inc.", "link":"http://www.wirewax.com"},
+		"description":"Interactive Video.",
+		"program":"Brand & Retail"
     },
     {
         "batch":7,
-        "startup":{"text":"ZeroLight Inc.", "link":""},
-		"description":"Best in class omnichannel visualization (incl VR/AR) combined with data capture proven at global scale."
+        "startup":{"text":"ZeroLight Inc.", "link":"http://www.zerolight.com"},
+		"description":"Best in class omnichannel visualization (incl VR/AR) combined with data capture proven at global scale.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Sentiance", "link":""},
-		"description":"Data intelligence company that uses AI to analyze sensor data to understand human behavior."
+        "startup":{"text":"Sentiance", "link":"http://www.sentiance.com"},
+		"description":"Data intelligence company that uses AI to analyze sensor data to understand human behavior.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Emotive Digital", "link":""},
-		"description":"Emotive Digital connects a new generation of tech savvy consumers to brands and products at retail destinations by utilizing exciting new interactive technologies to create an impassioned and immersive digital experience; a divergence of on-line and off line, brick and mortar, shopping experiences."
+        "startup":{"text":"Emotive Digital", "link":"http://www.emotivev.com"},
+		"description":"Emotive Digital connects a new generation of tech savvy consumers to brands and products at retail destinations by utilizing exciting new interactive technologies to create an impassioned and immersive digital experience; a divergence of on-line and off line, brick and mortar, shopping experiences.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Hello Vera", "link":""},
-		"description":"Hello Vera uses AI to resolve customer issues in real time across multiple channels in different languages."
+        "startup":{"text":"Hello Vera", "link":"http://www.helovera.ai"},
+		"description":"Hello Vera uses AI to resolve customer issues in real time across multiple channels in different languages.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"actiMirror", "link":""},
-		"description":"actiMirror delivers powerful emotional connections via real-time personalized consumer experiences, while providing businesses with valuable analytics insights based on data collected via the company's smart mirrors platform.  These insights enhance educated management decision making to grow retail revenues and optimize business metrics beyond sales.  actiMirror is easy to install and as intuitive to use as smartphones.   The company monetizes its services via a highly scalable SaaS model with four service price points."
+        "startup":{"text":"actiMirror", "link":"http://www.actimirror.com"},
+		"description":"actiMirror delivers powerful emotional connections via real-time personalized consumer experiences, while providing businesses with valuable analytics insights based on data collected via the company's smart mirrors platform.  These insights enhance educated management decision making to grow retail revenues and optimize business metrics beyond sales.  actiMirror is easy to install and as intuitive to use as smartphones.   The company monetizes its services via a highly scalable SaaS model with four service price points.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Cloud4Wi", "link":""},
-		"description":"Cloud4Wi offers Volare, the industry’s leading in-store customer data and engagement platform. With Volare, retailers can leverage their existing Wi-Fi networks to provide superior in-store customer experiences, while gaining valuable customer insights."
+        "startup":{"text":"Cloud4Wi", "link":"http://www.cloud4wi.com"},
+		"description":"Cloud4Wi offers Volare, the industry’s leading in-store customer data and engagement platform. With Volare, retailers can leverage their existing Wi-Fi networks to provide superior in-store customer experiences, while gaining valuable customer insights.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Keyo", "link":""},
-		"description":"Keyo is the world’s first cross-vertical, biometric identity platform. Keyo members use a quick, contactless scan of their palm to pay in stores, open doors and more. No phones, wallets or ID badges required."
+        "startup":{"text":"Keyo", "link":"http://www.keyo.co"},
+		"description":"Keyo is the world’s first cross-vertical, biometric identity platform. Keyo members use a quick, contactless scan of their palm to pay in stores, open doors and more. No phones, wallets or ID badges required.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Retention Logic", "link":""},
-		"description":"RetentionLogic builds intelligent, data-driven digital loyalty and rewards programs for today’s mobile customer."
+        "startup":{"text":"Retention Logic", "link":"http://www.retentionlogic.com"},
+		"description":"RetentionLogic builds intelligent, data-driven digital loyalty and rewards programs for today’s mobile customer.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Klustera", "link":""},
-		"description":"Klustera is an ai-enabled, hyperlocal advertising platform, that targets users online, based on their behaviour in the real world."
+        "startup":{"text":"Klustera", "link":"http://www.klustera.com"},
+		"description":"Klustera is an ai-enabled, hyperlocal advertising platform, that targets users online, based on their behaviour in the real world.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"OMNI Retail Group", "link":""},
-		"description":"OMNI has discovered the Holy Grail – unifying online shopping behavior and purchases with in-store purchases. Retailers & brands are able to make better decisions and improve volume, profit, and capital efficiency."
+        "startup":{"text":"OMNI Retail Group", "link":"http://www.omniretailgroup.com"},
+		"description":"OMNI has discovered the Holy Grail – unifying online shopping behavior and purchases with in-store purchases. Retailers & brands are able to make better decisions and improve volume, profit, and capital efficiency.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Mirror That Look", "link":""},
-		"description":"Visual search technology powered by Artificial Intelligence."
+        "startup":{"text":"Mirror That Look", "link":"http://www.mirrorthatlook.com"},
+		"description":"Visual search technology powered by Artificial Intelligence.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"iuzeit", "link":""},
-		"description":"iuzeit enables smarter purchase decisions by analyzing thousands of data points and providing a comprehensive overview for each product."
+        "startup":{"text":"iuzeit", "link":"http://www.iuzeit.com"},
+		"description":"iuzeit enables smarter purchase decisions by analyzing thousands of data points and providing a comprehensive overview for each product.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Rancard", "link":""},
-		"description":"Rancard is a social recommendations technology leader for online retail and places."
+        "startup":{"text":"Rancard", "link":"http://www.rancard.com"},
+		"description":"Rancard is a social recommendations technology leader for online retail and places.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Emotion Research Lab", "link":""},
-		"description":"EQ for machines. We use facial emotional algorithms to understand how people feel in real life in real time. The metrics that we offer are happiness, surprise, anger, disgust, fear, more than 100 secondary emotions, attention, gender and age. We are the only company that also measures moods. With a simple camera, we analyze micro-expressions in people’s faces and translate the results in emotions."
+        "startup":{"text":"Emotion Research Lab", "link":"http://www.emotionresearchlab.com"},
+		"description":"EQ for machines. We use facial emotional algorithms to understand how people feel in real life in real time. The metrics that we offer are happiness, surprise, anger, disgust, fear, more than 100 secondary emotions, attention, gender and age. We are the only company that also measures moods. With a simple camera, we analyze micro-expressions in people’s faces and translate the results in emotions.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Mystor-E", "link":""},
-		"description":"Mystor-E is shifting the proven effective online advertising model into brick & mortar stores, enabling retailers to use real-time data to drive highly relevant and personalized content to their in-store customers via digital screens, to increase sales!"
+        "startup":{"text":"Mystor-E", "link":"http://www.mystor-e.tech"},
+		"description":"Mystor-E is shifting the proven effective online advertising model into brick & mortar stores, enabling retailers to use real-time data to drive highly relevant and personalized content to their in-store customers via digital screens, to increase sales!",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Shelvspace", "link":""},
-		"description":"Shelvspace helps FMCG sales professionals protect their brands and increase sales by focusing on the shelf."
+        "startup":{"text":"Shelvspace", "link":"http://www.shelvspace.com"},
+		"description":"Shelvspace helps FMCG sales professionals protect their brands and increase sales by focusing on the shelf.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"MirraViz", "link":""},
-		"description":"The MirraViz MultiView Display System enables multiple people to view the same large screen and each see their own content over the entire screen, glasses-free."
+        "startup":{"text":"MirraViz", "link":"http://www.mirraviz.com"},
+		"description":"The MirraViz MultiView Display System enables multiple people to view the same large screen and each see their own content over the entire screen, glasses-free.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Boomerang Commerce", "link":""},
-		"description":"Helping retailers & brands grow profitably through timely, data-driven merchandising decisions."
+        "startup":{"text":"Boomerang Commerce", "link":"http://www.boomerangcommerce.com"},
+		"description":"Helping retailers & brands grow profitably through timely, data-driven merchandising decisions.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Myagi", "link":""},
-		"description":"Myagi is a Smart Workforce Learning platform that uses data and machine learning to create, curate and deliver the right learning content, to the right employee, at the right time to give them the knowledge and skills they need to delight customers."
+        "startup":{"text":"Myagi", "link":"http://www.myagi.com"},
+		"description":"Myagi is a Smart Workforce Learning platform that uses data and machine learning to create, curate and deliver the right learning content, to the right employee, at the right time to give them the knowledge and skills they need to delight customers.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"PebblePost", "link":""},
-		"description":"PebblePost® invented Programmatic Direct Mail® to transform real-time online activity into personalized, dynamically rendered tangible media that’s delivered into postal hubs within 12-24 hours, every day."
+        "startup":{"text":"PebblePost", "link":"http://www.pebblepost.com"},
+		"description":"PebblePost® invented Programmatic Direct Mail® to transform real-time online activity into personalized, dynamically rendered tangible media that’s delivered into postal hubs within 12-24 hours, every day.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Bouxtie Inc.", "link":""},
-		"description":"Bouxtie Inc is a Global Marketplace for the Digital Gift Card industry. We help Corporations make their clients feel appreciated and employees feel like superheroes. We accomplish this by replacing plastic gift cards with digital solutions to make recognition personal, instant, and memorable."
+        "startup":{"text":"Bouxtie Inc.", "link":"http://www.bouxtie.com"},
+		"description":"Bouxtie Inc is a Global Marketplace for the Digital Gift Card industry. We help Corporations make their clients feel appreciated and employees feel like superheroes. We accomplish this by replacing plastic gift cards with digital solutions to make recognition personal, instant, and memorable.",
+		"program":"Brand & Retail"
     },
     {
         "batch":8,
-        "startup":{"text":"Dor Technologies", "link":""},
-		"description":"Founded by two Apple engineers, Dor technologies created the first retail analytics solution that is affordable, powerful, and easy to use. Using a proprietary sensor technology Dor is able to track customer foot traffic in retail locations and provide insights to the store owners through an intuitive and modern dashboard. Dor has already helped hundreds of stores increase revenue by leveraging their data to make better business decisions."
+        "startup":{"text":"Dor Technologies", "link":"http://www.getdor.com"},
+		"description":"Founded by two Apple engineers, Dor technologies created the first retail analytics solution that is affordable, powerful, and easy to use. Using a proprietary sensor technology Dor is able to track customer foot traffic in retail locations and provide insights to the store owners through an intuitive and modern dashboard. Dor has already helped hundreds of stores increase revenue by leveraging their data to make better business decisions.",
+		"program":"Brand & Retail"
 	}
 ]
