@@ -3,6 +3,7 @@ import MuiThemeProvider from 'material-ui/styles/MuiThemeProvider';
 import RaisedButton from 'material-ui/RaisedButton';
 import Login from './Login';
 import Register from './Register';
+
 class Loginscreen extends Component {
   constructor(props){
     super(props);
@@ -15,16 +16,18 @@ class Loginscreen extends Component {
       isLogin:true
     }
   }
+  
   componentWillMount(){
     var loginscreen=[];
     loginscreen.push(<Login parentContext={this} appContext={this.props.parentContext}/>);
     var loginmessage = "Or Register Below";
 	document.title = "PnP Wolfe Pack";
     this.setState({
-                  loginscreen:loginscreen,
-                  loginmessage:loginmessage
-                    })
+      loginscreen:loginscreen,
+      loginmessage:loginmessage
+    })
   }
+  
   handleClick(event){
     var loginmessage;
     if(this.state.isLogin){
@@ -37,8 +40,7 @@ class Loginscreen extends Component {
         buttonLabel:"Login",
         isLogin:false
       })
-    }
-    else{
+    } else {
       var loginscreen=[];
       loginscreen.push(<Login parentContext={this}/>);
       loginmessage = "Or Register Below";
@@ -50,6 +52,7 @@ class Loginscreen extends Component {
       })
     }
   }
+  
   render() {
     return (
       <div className="loginscreen">
@@ -66,7 +69,9 @@ class Loginscreen extends Component {
     );
   }
 }
+
 const style = {
   margin: 15,
 };
+
 export default Loginscreen;

@@ -23,7 +23,6 @@ class EnhancedTable extends Component {
   constructor(props) {
     super(props);
 	this.data = columnData.sort((a, b) => (a.batch < b.batch ? -1: 1));
-
     this.state = {
       order: 'asc',
       orderBy: 'batch',
@@ -56,31 +55,7 @@ class EnhancedTable extends Component {
 	  filteredDataList: filteredList,
     });
   }
-
-  handleRequestSort = (event, property) => {
-    const orderBy = property;
-    let order = 'desc';
-
-    if (this.state.orderBy === property && this.state.order === 'desc') {
-      order = 'asc';
-    }
-
-    const data =
-      order === 'desc'
-        ? this.state.data.sort((a, b) => (b[orderBy] < a[orderBy] ? -1 : 1))
-        : this.state.data.sort((a, b) => (a[orderBy] < b[orderBy] ? -1 : 1));
-
-    this.setState({ data, order, orderBy });
-  };
-
-  handleChangePage = (event, page) => {
-    this.setState({ page });
-  };
-
-  handleChangeRowsPerPage = event => {
-    this.setState({ rowsPerPage: event.target.value });
-  };
-
+  
   tableHeader(label, cellDataKey){
   	return (
       <TableHeaderColumn>

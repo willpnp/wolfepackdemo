@@ -9,11 +9,13 @@ class TableScreen extends Component {
   constructor(props){
     super(props);
   }
+  
   handleLogout(event){
     var loginPage =[];
     loginPage.push(<LoginScreen appContext={this.props.appContext}/>);
     this.props.appContext.setState({loginPage:loginPage,TableScreen:[]})
   }
+  
   render() {
     return (
       <div className="App">

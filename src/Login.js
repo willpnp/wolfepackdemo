@@ -6,14 +6,15 @@ import TextField from 'material-ui/TextField';
 import axios from 'axios';
 import TableScreen from './TableScreen';
 import EnhancedTable from './lib/index.js';
+
 var URI, PORT;
 
 if (process.env.NODE_ENV == 'development'){
-	URI = 'http://localhost';
-	PORT = '5000';
+  URI = 'http://localhost';
+  PORT = '5000';
 } else {
-	URI = 'http://wolfepackdemo-env.gtkmprjf2p.us-east-2.elasticbeanstalk.com';
-	PORT = '';
+  URI = 'http://wolfepackdemo-env.gtkmprjf2p.us-east-2.elasticbeanstalk.com';
+  PORT = '';
 }
 
 class Login extends Component {
@@ -24,6 +25,7 @@ class Login extends Component {
       password:'',
 	  }
   }
+  
   handleClick(event){
     var apiBaseUrl = URI+":"+PORT+"/api/";
     var self = this;
@@ -38,12 +40,10 @@ class Login extends Component {
         var TableScreen=[];
         TableScreen.push(<EnhancedTable parentContext={this} appContext={self.props.appContext} />)
         self.props.appContext.setState({loginPage:[],TableScreen:TableScreen})
-      }
-      else if(response.data.code == 204){
+      } else if(response.data.code == 204){
         console.log("Username password do not match");
         alert("username password do not match")
-      }
-      else{
+      } else {
         console.log("Username does not exist");
         alert("Username does not exist");
       }
@@ -52,6 +52,7 @@ class Login extends Component {
       console.log(error);
     });
   }
+  
   render() {
     return (
       <div>
@@ -81,7 +82,9 @@ class Login extends Component {
     );
   }
 }
+
 const style = {
- margin: 15,
+  margin: 15,
 };
+
 export default Login;

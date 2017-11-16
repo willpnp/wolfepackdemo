@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
 import injectTapEventPlugin from 'react-tap-event-plugin';
-
 import './App.css';
 import Loginscreen from './Loginscreen';
 import TableScreen from './TableScreen';
@@ -10,17 +9,19 @@ class App extends Component {
   constructor(props){
 	super(props);
 	this.state={
-		loginPage:[],
-		uploadScreen:[]
+      loginPage:[],
+      uploadScreen:[]
 	}  		
   }
+  
   componentWillMount(){
-	  var loginPage = [];
-	  loginPage.push(<Loginscreen parentContext={this}/>);
-	  this.setState({
-		  loginPage:loginPage
-	  })
+    var loginPage = [];
+	loginPage.push(<Loginscreen parentContext={this}/>);
+	this.setState({
+	  loginPage:loginPage
+	})
   }
+  
   render() {
     return (
       <div className="App">
@@ -30,8 +31,9 @@ class App extends Component {
     );
   }
 }
+
 const style = {
-	margin: 15,
+  margin: 15,
 };
 
 export default App;

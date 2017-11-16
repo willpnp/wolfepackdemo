@@ -5,14 +5,15 @@ import RaisedButton from 'material-ui/RaisedButton';
 import TextField from 'material-ui/TextField';
 import axios from 'axios';
 import Login from './Login';
+
 var URI, PORT;
 
 if (process.env.NODE_ENV == 'development'){
-	URI = 'http://localhost';
-	PORT = '5000';
+  URI = 'http://localhost';
+  PORT = '5000';
 } else {
-	URI = 'http://wolfepackdemo-env.gtkmprjf2p.us-east-2.elasticbeanstalk.com';
-	PORT = '';
+  URI = 'http://wolfepackdemo-env.gtkmprjf2p.us-east-2.elasticbeanstalk.com';
+  PORT = '';
 }
 
 class Register extends Component {
@@ -25,11 +26,13 @@ class Register extends Component {
       password:''
     }
   }
+  
   componentWillReceiveProps(nextProps){
     console.log("nextProps",nextProps);
   }
+  
   handleClick(event,role){
-      var apiBaseUrl = URI+":"+PORT+"/api/";
+    var apiBaseUrl = URI+":"+PORT+"/api/";
     var self = this;
     if(this.state.first_name.length>0 && this.state.last_name.length>0 && this.state.email.length>0 && this.state.password.length>0){
       var payload={
@@ -50,19 +53,18 @@ class Register extends Component {
            buttonLabel:"Register",
            isLogin:true
          });
-       }
-       else{
+       } else {
          console.log("some error ocurred",response.data.code);
        }
      })
      .catch(function (error) {
        console.log(error);
      });
-    }
-    else{
+    } else {
       alert("Input field value is missing");
     }
   }
+  
   render() {
     return (
       <div>
@@ -105,7 +107,9 @@ class Register extends Component {
     );
   }
 }
+
 const style = {
   margin: 15,
 };
+
 export default Register;
