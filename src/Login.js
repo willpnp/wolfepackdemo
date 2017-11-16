@@ -53,6 +53,12 @@ class Login extends Component {
     });
   }
   
+  handleKeyPress(event) {
+    if (event.key === 'Enter') {
+		this.handleClick(event)
+	} 	
+  }
+  
   render() {
     return (
       <div>
@@ -73,6 +79,7 @@ class Login extends Component {
                hintText="Enter your Password"
                floatingLabelText="Password"
                onChange = {(event,newValue) => this.setState({password:newValue})}
+			   onKeyPress = {(event) => this.handleKeyPress(event)}
                />
              <br/>
              <RaisedButton label="Submit" primary={true} style={style} onClick={(event) => this.handleClick(event)}/>
