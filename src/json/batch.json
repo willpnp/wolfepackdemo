@@ -332,7 +332,8 @@
     {
         "batch":3,
         "startup":{"text":"ShopSeen", "link":""},
-        "description":"NOT IN BUSINESS. Shopseen gives sellers a unified platform to manage their products, everywhere they want to sell, including Square and Instagram! Connect ecommerce, POS, social channels, email marketing, and shipping in one place. Shopseen simplifies the addition and management of more stores and marketing channels."
+        "description":"NOT IN BUSINESS. Shopseen gives sellers a unified platform to manage their products, everywhere they want to sell, including Square and Instagram! Connect ecommerce, POS, social channels, email marketing, and shipping in one place. Shopseen simplifies the addition and management of more stores and marketing channels.",
+		"program":"Brand & Retail"
     },
     {
         "batch":3,
@@ -631,7 +632,7 @@
     {
         "batch":6,
         "startup":{"text":"Kwik", "link":"http://www.kwik.me"},
-		"description":"kwik allows people to order their favorite product with a push of a button.",
+		"description":"Kwik's open marketplace allows brands and retailers to go direct to consumer increasing loyalty, engagement and sales.",
 		"program":"Brand & Retail"
     },
     {
@@ -981,5 +982,95 @@
         "startup":{"text":"Dor Technologies", "link":"http://www.getdor.com"},
 		"description":"Founded by two Apple engineers, Dor technologies created the first retail analytics solution that is affordable, powerful, and easy to use. Using a proprietary sensor technology Dor is able to track customer foot traffic in retail locations and provide insights to the store owners through an intuitive and modern dashboard. Dor has already helped hundreds of stores increase revenue by leveraging their data to make better business decisions.",
 		"program":"Brand & Retail"
+	},
+    {
+        "batch":1,
+        "startup":{"text":"6D Bytes", "link":"http://www.6dbytes.com"},
+		"description":"Reinventing fast food.",
+		"program":"Food & Beverage"
+	},
+    {
+        "batch":1,
+        "startup":{"text":"Airo", "link":"http://www.airohealth.com"},
+		"description":"Food guru in your pocket.",
+		"program":"Food & Beverage"
+	},	
+    {
+        "batch":1,
+        "startup":{"text":"Aromyx", "link":"http://www.aromyx.com"},
+		"description":"Digitizing taste and scent.",
+		"program":"Food & Beverage"
+	},	
+    {
+        "batch":1,
+        "startup":{"text":"Astrona", "link":"http://www.astronabio.com"},
+		"description":"Food safety in the palm of your hand.",
+		"program":"Food & Beverage"
+	},	
+    {
+        "batch":1,
+        "startup":{"text":"Chirps Chips", "link":"http://www.chirpschips.com"},
+		"description":"We make healthy, delicious, and sustainable foods from insects!",
+		"program":"Food & Beverage"
+	},	
+    {
+        "batch":1,
+        "startup":{"text":"Clear Labs", "link":"http://www.clearlabs.com"},
+		"description":"The standard for molecular food quality and analytics in the global food industry.",
+		"program":"Food & Beverage"
+	},	
+    {
+        "batch":1,
+        "startup":{"text":"Conelum Biotech", "link":"http://www.conelum.com"},
+		"description":"Conelum Biotech has created a propriety joint-solution for ultra-fast (3 hours instead of 5 days's current standard) microbiological diagnotstics and enumeration at ultra-high sensitivity level.",
+		"program":"Food & Beverage"
+	},	
+    {
+        "batch":1,
+        "startup":{"text":"Koniku", "link":"http://www.koniku.com"},
+		"description":"Conelum Biotech has created a propriety joint-solution for ultra-fast (3 hours instead of 5 days's current standard) microbiological diagnotstics and enumeration at ultra-high sensitivity level.",
+		"program":"Food & Beverage"
+	},	
+    {
+        "batch":1,
+        "startup":{"text":"Kwik", "link":"http://www.kwik.me"},
+		"description":"Kwik's open marketplace allows brands and retailers to go direct to consumer increasing loyalty, engagement and sales.",
+		"program":"Food & Beverage"
+	},
+    {
+        "batch":1,
+        "startup":{"text":"Loliware", "link":"http://www.loliware.com"},
+		"description":"The world's first Edible Bioplastic Company dedicated to replacing plastic with edible materials.",
+		"program":"Food & Beverage"
+	},
+    {
+        "batch":1,
+        "startup":{"text":"Mammoth Bar", "link":"http://www.mammothbar.com"},
+		"description":"We handcraft organic food products without all the weird stuff.",
+		"program":"Food & Beverage"
+	},
+    {
+        "batch":1,
+        "startup":{"text":"ProteoSense", "link":"http://proteosense.com/"},
+		"description":"ProteoSense is commercializing a rapid, hand-held diagnostic system to detect foodborne pathogens without sample incubation, providing results in minutes not days.",
+		"program":"Food & Beverage"
+	},
+    {
+        "batch":1,
+        "startup":{"text":"REX", "link":"http://rexanimalhealth.com/"},
+		"description":"Bringing precision medicine to the animal health industry.",
+		"program":"Food & Beverage"
+	},
+    {
+        "batch":1,
+        "startup":{"text":"Seva Coffee", "link":"http://www.sevacoffee.com/"},
+		"description":"The world's best and most personalized coffee.",
+		"program":"Food & Beverage"
+	},
+    {
+        "batch":1,
+        "startup":{"text":"TeleSense", "link":"http://telesense.com/"},
+		"description":"Monitoring for food safety and compliance from production to point-of-sale.",
+		"program":"Food & Beverage"
 	}
 ]

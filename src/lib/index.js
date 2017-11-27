@@ -100,6 +100,13 @@ class EnhancedTable extends Component {
 	          <TableHeader displaySelectAll={false} adjustForCheckbox={false}>
 	            <TableRow>
                   <TableHeaderColumn>
+                    Program
+                    <div>
+                      <br />
+                      <TextField onChange = {(event) => this.onFilterChange(event, "program")} />
+                    </div>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn>
                     Batch
                     <div>
                       <br />
@@ -128,6 +135,7 @@ class EnhancedTable extends Component {
                     <TableRow
                       tabIndex={-1}
                     >
+                      <TableRowColumn padding="none">{n.program}</TableRowColumn>
                       <TableRowColumn padding="none">{n.batch}</TableRowColumn>
 					  {this.tableRowColumnLink(n.startup)}
                       <TableRowColumn style={{
