@@ -32,38 +32,47 @@ class EnhancedTable extends Component {
     };
   };
 
-  onFilterChange = (event, cellDataKey) => {
+  onFilterChange = (event) => {
     if (!event.target.value){
 	  this.setState({
 	    filteredDataList: this.data,
 	  });
 	}
-    var filterBy = event.target.value.toString().toLowerCase();
+    var filterBy = event.target.value.toString().toLowerCase().split(" ");
     var size = this.data.length;
     var filteredList = [];
+	var dataRowString, filterMatch;
 	for (var index = 0; index < size; index++){
-	  if (cellDataKey == 'startup'){
-	    var v=this.data[index][cellDataKey].text;
-      } else {
-		var v=this.data[index][cellDataKey];		  	
+	  dataRowString = '';
+	  filterMatch = 0;
+	  for (var key in this.data[index]){
+		  if (this.data[index].hasOwnProperty(key)){
+			  if(key == 'startup'){
+		  	    var v=this.data[index][key].text;
+			  } else {
+		  		var v=this.data[index][key];		  	
+			  }
+			  dataRowString = dataRowString + v.toString().toLowerCase();
+		  }
+	  } 
+	  for (var i=0; i<filterBy.length; i++){
+	      if (dataRowString.indexOf(filterBy[i]) !== -1) {
+			  filterMatch = filterMatch+1;
+		  }	  	
 	  }
-      if (v.toString().toLowerCase().indexOf(filterBy) !== -1) {
-	    filteredList.push(this.data[index]);
+	  if (filterMatch == filterBy.length){
+	      filteredList.push(this.data[index]);	  	
 	  }
 	}
 	this.setState({
 	  filteredDataList: filteredList,
     });
   }
-  
+
   tableHeader(label, cellDataKey){
   	return (
       <TableHeaderColumn>
         {label}
-        <div>
-          <br />
-          <TextField onChange = {(event,cellDataKey) => this.onFilterChange(event, cellDataKey)} />
-        </div>
 	  </TableHeaderColumn>  		
   	)
   }
@@ -93,39 +102,30 @@ class EnhancedTable extends Component {
     return (
       <MuiThemeProvider>
         <Paper>
-		  <div>
-		  </div>
+          <TextField
+			hintText="Search"
+            floatingLabelText="Search"
+			style={{display:'block', marginLeft:'10px'}}
+			onChange = {(event) => this.onFilterChange(event)}
+		  />
           <div>
             <Table selectable={false}>
 	          <TableHeader displaySelectAll={false} adjustForCheckbox={false}>
 	            <TableRow>
                   <TableHeaderColumn>
                     Program
-                    <div>
-                      <br />
-                      <TextField onChange = {(event) => this.onFilterChange(event, "program")} />
-                    </div>
                   </TableHeaderColumn>
                   <TableHeaderColumn>
                     Batch
-                    <div>
-                      <br />
-                      <TextField onChange = {(event) => this.onFilterChange(event, "batch")} />
-                    </div>
                   </TableHeaderColumn>
                   <TableHeaderColumn>
                     Startup
-                    <div>
-                      <br />
-                      <TextField onChange = {(event) => this.onFilterChange(event, "startup")} />
-                    </div>
                   </TableHeaderColumn>
                   <TableHeaderColumn>
                     Description
-                    <div>
-                      <br />
-                      <TextField onChange = {(event) => this.onFilterChange(event, "description")} />
-                    </div>
+                  </TableHeaderColumn>
+                  <TableHeaderColumn>
+                    Customers
                   </TableHeaderColumn>
 	            </TableRow>
 	          </TableHeader>
@@ -143,6 +143,12 @@ class EnhancedTable extends Component {
                         wordWrap: "break-word"
                       }}>
 					    {n.description}
+					  </TableRowColumn>
+                      <TableRowColumn style={{
+                        whiteSpace: "normal",
+                        wordWrap: "break-word"
+                      }}>
+					    {n.customers}
 					  </TableRowColumn>
                     </TableRow>
                   );

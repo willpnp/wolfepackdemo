@@ -21,7 +21,7 @@ class Loginscreen extends Component {
     var loginscreen=[];
     loginscreen.push(<Login parentContext={this} appContext={this.props.parentContext}/>);
     var loginmessage = "Or Register Below";
-	document.title = "PnP Wolfe Pack";
+	document.title = "Wolfe Pack | Plug and Play Tech Center";
     this.setState({
       loginscreen:loginscreen,
       loginmessage:loginmessage
